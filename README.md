@@ -14,7 +14,7 @@
 <a href="https://www.w3schools.com/nodejs/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> &nbsp;
 <a href="https://www.w3resource.com/PostgreSQL/tutorial.php"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a> &nbsp;
 <a href="https://www.w3schools.com/mySQl/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a> &nbsp;
-<a href="https://docs.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> &nbsp;
+<!-- <a href="https://docs.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> &nbsp; -->
 
 
 
