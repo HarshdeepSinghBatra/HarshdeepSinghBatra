@@ -1,5 +1,5 @@
 - I’m  currently pursuing B.Tech in Computer Science and Artificial Intelligence from IIIT Lucknow.
-- Exploring Full Stack Developement and Open Source.
+- Exploring Full Stack Developement.
 ### Languages
 
 <a href="https://www.w3schools.com/java/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
